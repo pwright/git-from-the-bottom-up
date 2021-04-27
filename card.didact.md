@@ -458,7 +458,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.1-directory-content-tracking.adoc">Directory</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.1-directory-content-tracking.md.adoc">Directory</a>
       <div class="pf-c-content">
         <small>As mentioned above, what Git does is quite rudimentary: </small>
       </div>
@@ -469,7 +469,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.2-introducing-the-blob.adoc">Introducing the blob</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.2-introducing-the-blob.md.adoc">Introducing the blob</a>
       <div class="pf-c-content">
         <small>Now that the basic picture has been painted, let’s get into some practical examples. </small>
       </div>
@@ -480,7 +480,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.3-blobs-are-stored-in-trees.adoc">Blobs are stored in trees</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.3-blobs-are-stored-in-trees.md.adoc">Blobs are stored in trees</a>
       <div class="pf-c-content">
         <small>The contents of your files are stored in blobs, but those blobs are pretty featureless. </small>
       </div>
@@ -491,7 +491,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.4-how-trees-are-made.adoc">How trees are made</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.4-how-trees-are-made.md.adoc">How trees are made</a>
       <div class="pf-c-content">
         <small>Every commit holds a single tree, but how are trees made? </small>
       </div>
@@ -502,7 +502,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.5-the-beauty-of-commits.adoc">The beauty of commits</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.5-the-beauty-of-commits.md.adoc">The beauty of commits</a>
       <div class="pf-c-content">
         <small>Some version control systems make branches into magical things,</small>
       </div>
@@ -513,7 +513,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.6-a-commit-by-any-other-name.adoc">A commit by any other name...</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.6-a-commit-by-any-other-name.md.adoc">A commit by any other name...</a>
       <div class="pf-c-content">
         <small>Understanding commits is the key to grokking Git. </small>
       </div>
@@ -524,7 +524,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.7-branching-and-the-power-of-rebase.adoc">Branching and the power of rebase</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.7-branching-and-the-power-of-rebase.md.adoc">Branching and the power of rebase</a>
       <div class="pf-c-content">
         <small>One of Git’s most capable commands for manipulating commits </small>
       </div>
@@ -535,7 +535,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.8-interactive-rebasing.adoc">Interactive rebasing</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/1.8-interactive-rebasing.md.adoc">Interactive rebasing</a>
       <div class="pf-c-content">
         <small>When rebase was run above, it automatically rewrote all the commits from  to  </small>
       </div>
@@ -546,7 +546,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/2.1-meet-the-middle-man.adoc">The Index: Meet the middle man</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/2.1-meet-the-middle-man.md.adoc">The Index: Meet the middle man</a>
       <div class="pf-c-content">
         <small>Between your data files, which are stored on the filesystem, and your Git blobs,</small>
       </div>
@@ -557,7 +557,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/2.2-taking-the-index-further.adoc">Taking the index further</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/2.2-taking-the-index-further.md.adoc">Taking the index further</a>
       <div class="pf-c-content">
         <small>Let’s see, the index... With it you can pre-stage a set of changes, </small>
       </div>
@@ -568,7 +568,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/3.1-to-reset-or-not-to-reset.adoc">To reset, or not to reset</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/3.1-to-reset-or-not-to-reset.md.adoc">To reset, or not to reset</a>
       <div class="pf-c-content">
         <small>One of the more difficult commands to master in Git is , </small>
       </div>
@@ -579,7 +579,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/3.2-doing-a-mixed-reset.adoc">Doing a mixed reset</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/3.2-doing-a-mixed-reset.md.adoc">Doing a mixed reset</a>
       <div class="pf-c-content">
         <small>If you use the  option (or no option at all, as this is the default),</small>
       </div>
@@ -590,7 +590,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/3.3-doing-a-soft-reset.adoc">Doing a soft reset</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/3.3-doing-a-soft-reset.md.adoc">Doing a soft reset</a>
       <div class="pf-c-content">
         <small>If you use the  option to , this is the same as simply </small>
       </div>
@@ -601,7 +601,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/3.4-doing-a-hard-reset.adoc">Doing a hard reset</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/3.4-doing-a-hard-reset.md.adoc">Doing a hard reset</a>
       <div class="pf-c-content">
         <small>A hard reset (the  option) has the potential of being very dangerous,</small>
       </div>
@@ -612,7 +612,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/4-Stashing-and-the-reflog.adoc">Stashing and the reflog</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/4-Stashing-and-the-reflog.md.adoc">Stashing and the reflog</a>
       <div class="pf-c-content">
         <small>Until now we’ve described two ways in which blobs find their way into Git:</small>
       </div>
@@ -623,7 +623,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/5-Conclusion.adoc">Conclusion</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/5-Conclusion.md.adoc">Conclusion</a>
       <div class="pf-c-content">
         <small>Over the years I’ve used many version control systems, and many backup schemes. </small>
       </div>
@@ -634,7 +634,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
   </div>
 <div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
     <div class="pf-c-card__title">
-      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/6-Further-Reading.adoc">Further reading</a>
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file:///home/paulwright/repos/git-from-the-bottom-up/6-Further-Reading.md.adoc">Further reading</a>
       <div class="pf-c-content">
         <small>If your interest to learn Git more has been piqued, </small>
       </div>

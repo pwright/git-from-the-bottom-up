@@ -1,0 +1,11 @@
+<div class="pf-c-card pf-m-hoverable pf-m-compact" id="card-2">
+    <div class="pf-c-card__title">
+      <a href="didact://?commandId=vscode.didact.startDidact&text=file://{docdir}/2.1-meet-the-middle-man.md.adoc">The Index: Meet the middle man</a>
+      <div class="pf-c-content">
+        <small>Between your data files, which are stored on the filesystem, and your Git blobs,</small>
+      </div>
+    </div>
+    <div class="pf-c-card__body">
+       which are stored in the repository, there stands a somewhat strange entity: the Git index. Part of what makes this beast hard to understand is that it’s got a rather unfortunate name. It’s an index in the sense that it refers to the set of newly created trees and blobs which you created by running add. These new objects will soon get bound into a new tree for the purpose of committing to your repository — but until then, they are only referenced by the index. That means that if you unregister a change from the index with reset, you’ll end up with an orphaned blob that will get deleted at some point at the future.
+      </div>
+  </div>
