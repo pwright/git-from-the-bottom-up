@@ -1,0 +1,17 @@
+1.1-directory-content-tracking.md
+1.2-introducing-the-blob.md
+1.3-blobs-are-stored-in-trees.md
+1.4-how-trees-are-made.md
+1.5-the-beauty-of-commits.md
+1.6-a-commit-by-any-other-name.md
+1.7-branching-and-the-power-of-rebase.md
+1.8-interactive-rebasing.md
+2.1-meet-the-middle-man.md
+2.2-taking-the-index-further.md
+3.1-to-reset-or-not-to-reset.md
+3.2-doing-a-mixed-reset.md
+3.3-doing-a-soft-reset.md
+3.4-doing-a-hard-reset.md
+4-Stashing-and-the-reflog.md
+5-Conclusion.md
+6-Further-Reading.md

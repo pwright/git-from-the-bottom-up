@@ -1,0 +1,5 @@
+:self: card.didact.md
+[subs="attributes+"]
+++++
+include::assets/plain-start.html[]
+++++

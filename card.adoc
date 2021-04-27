@@ -1,0 +1,11 @@
+:self: card.didact.md
+
+[subs="attributes+"]
+:last-update-label!:
+++++
+include::assets/card-start.html[]
+
+include::./cardlist.adoc[]
+
+++++
+//include::assets/card-end.html[]
